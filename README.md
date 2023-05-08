@@ -2,7 +2,7 @@
 
 E-commerce project for order food and delivered it, with MVVM structure and laravel backend. tecnology used : dart, flutter, laravel backend and state manegement GetX.
 
-##Package
+## Package
 
 flutter_lints: ^1.0.0
 get: ^4.6.1
