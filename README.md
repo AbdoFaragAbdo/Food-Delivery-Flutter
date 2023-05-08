@@ -1,17 +1,19 @@
 # food_delivery_ecommerce
 
-A new Flutter project.
+E-commerce project for order food and delivered it, with MVVM structure and laravel backend. tecnology used : dart, flutter, laravel backend and state manegement GetX.
 
-## Getting Started
+##Package
+flutter_lints: ^1.0.0
+get: ^4.6.1
+dots_indicator: ^2.1.0
+flutter_screenutil: ^5.4.0+1
+persistent_bottom_nav_bar: any
+flutter_svg: ^1.0.3
+shared_preferences: ^2.0.13
+intl: ^0.17.0
+google_maps_flutter: ^2.1.2
+geocoding: ^2.0.4
+geolocator: ^8.2.0
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
