@@ -4,8 +4,8 @@ E-commerce project for order food and delivered it, with MVVM structure and lara
 
 ## Package
 
-flutter_lints: ^1.0.0
-get: ^4.6.1
+flutter_lints: ^1.0.0 <hr>
+get: ^4.6.1<hr>
 dots_indicator: ^2.1.0
 flutter_screenutil: ^5.4.0+1
 persistent_bottom_nav_bar: any
