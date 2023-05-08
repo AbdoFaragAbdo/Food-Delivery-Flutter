@@ -20,17 +20,25 @@ geolocator: ^8.2.0<br>
 ### Sign in
 <img src="https://github.com/AbdoFaragAbdo/Food-Delivery-Flutter/blob/master/1.jpg"  height="700" ><img>
 ### Sign up
-<img src="https://github.com/AbdoFaragAbdo/Food-Delivery-Flutter/blob/master/2.jpg" width="600" height="700" ><img>
+<img src="https://github.com/AbdoFaragAbdo/Food-Delivery-Flutter/blob/master/2.jpg"  height="700" ><img>
 ### Home
-<img src="https://github.com/AbdoFaragAbdo/Food-Delivery-Flutter/blob/master/8.jpg" width="600" height="700" ><img>
+<img src="https://github.com/AbdoFaragAbdo/Food-Delivery-Flutter/blob/master/8.jpg"  height="700" ><img>
 ### Recommended Food
-<img src="https://github.com/AbdoFaragAbdo/Food-Delivery-Flutter/blob/master/9.jpg" width="600" height="700" ><img>
+<img src="https://github.com/AbdoFaragAbdo/Food-Delivery-Flutter/blob/master/9.jpg" height="700" ><img>
 ### food pages
-<img src="https://github.com/AbdoFaragAbdo/Food-Delivery-Flutter/blob/master/3.jpg" width="600" height="700" ><img>
-<img src="https://github.com/AbdoFaragAbdo/Food-Delivery-Flutter/blob/master/4.jpg" width="600" height="700" ><img>
-<img src="https://github.com/AbdoFaragAbdo/Food-Delivery-Flutter/blob/master/5.jpg" width="600" height="700" ><img>
-<img src="https://github.com/AbdoFaragAbdo/Food-Delivery-Flutter/blob/master/6.jpg" width="600" height="700" ><img>
-<img src="https://github.com/AbdoFaragAbdo/Food-Delivery-Flutter/blob/master/7.jpg" width="600" height="700" ><img>
+<img src="https://github.com/AbdoFaragAbdo/Food-Delivery-Flutter/blob/master/3.jpg"  height="700" ><img>
+<img src="https://github.com/AbdoFaragAbdo/Food-Delivery-Flutter/blob/master/4.jpg"  height="700" ><img>
+<img src="https://github.com/AbdoFaragAbdo/Food-Delivery-Flutter/blob/master/5.jpg" height="700" ><img>
+<img src="https://github.com/AbdoFaragAbdo/Food-Delivery-Flutter/blob/master/6.jpg"  height="700" ><img>
+<img src="https://github.com/AbdoFaragAbdo/Food-Delivery-Flutter/blob/master/7.jpg" height="700" ><img>
+### Cart
+<img src="https://github.com/AbdoFaragAbdo/Food-Delivery-Flutter/blob/master/10.jpg" height="700" ><img>
+### Cart History
+<img src="https://github.com/AbdoFaragAbdo/Food-Delivery-Flutter/blob/master/11.jpg" height="700" ><img>
+### Profile
+<img src="https://github.com/AbdoFaragAbdo/Food-Delivery-Flutter/blob/master/12.jpg" height="700" ><img>
+
+
 
 
 
