@@ -18,7 +18,6 @@ geolocator: ^8.2.0<br>
 
 ## screenshots
 ### Sign in
-![Login](https://github.com/AbdoFaragAbdo/Food-Delivery-Flutter/blob/master/1.jpg)
-
+<img src="https://github.com/AbdoFaragAbdo/Food-Delivery-Flutter/blob/master/1.jpg"><img>
 
 
